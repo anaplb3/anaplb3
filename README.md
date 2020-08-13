@@ -2,8 +2,6 @@
   <img src="https://github.com/anaplb3/anaplb3/blob/master/Coding.gif" alt="Imagem de mulher sobre um notebook programando" />
 </p>
 
-<figure><embed src="https://wakatime.com/share/@darlAna/4b5ee922-affb-4175-bda3-54814d894232.svg"></embed></figure>
-
 <center>
   <table>
     <tr>
