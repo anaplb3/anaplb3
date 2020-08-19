@@ -14,9 +14,10 @@
 ### Olá! Sou a Ana Paula 👋
 
 - 🎓 Graduanda em Sistemas de Informação na UFPB
-- 💻 Atualmente trabalho com Android Nativo
-- 📚 Estudando Spring Boot e Javascript
-- 🐍 Procurando colaborar em projetos que envolvam Python
+- 💻 Atualmente trabalho com Android Nativo (Java)
+- 🙋 Interessada em trabalhar com Back-End
+- 📚 Estudando Javascript
+- 🐍 Procurando colaborar em projetos que envolvam Python ou NodeJS
 - 😄 Pronomes: Ela/Elas
 
 ### Redes sociais 📱
