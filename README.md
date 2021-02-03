@@ -19,6 +19,7 @@
 - 📚 Estudando Javascript
 - 🐍 Procurando colaborar em projetos que envolvam Python ou NodeJS
 - 😄 Pronomes: Ela/Elas
+- ❓  Fato aleatório sobre mim: Eu sei cantar a primeira parte do rap do Will Smith em Um Maluco no Pedaço 😁 
 
 ### Redes sociais 📱
 [![Linkedin Badge](https://img.shields.io/badge/-AnaPaulaLima-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ana-paula-lima-borges/)](https://www.linkedin.com/in/ana-paula-lima-borges/)
