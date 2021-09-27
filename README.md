@@ -14,7 +14,7 @@
 ### Olá! Sou a Ana Paula 👋
 
 - 🎓 Graduanda em Sistemas de Informação na UFPB
-- 💻 Atualmente trabalho com Android Nativo (Java)
+- 💻 Atualmente trabalho como Consultora de Desenvolvimento
 - 🙋 Interessada em trabalhar com Back-End
 - 📚 Estudando Javascript
 - 🐍 Procurando colaborar em projetos que envolvam Python ou NodeJS
