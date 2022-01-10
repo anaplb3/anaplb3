@@ -5,19 +5,19 @@
 <center>
   <table>
     <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaplb3&hide=html&layout=compact&theme=default" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=anaplb3&theme=default&show_icons=true" /></td>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaplb3&langs_count=10&hide=html&layout=compact&theme=default)" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=anaplb3&count_private=true&show_icons=true)" /></td>
     </tr>   
   </table>
 </center>
 
 ### Olá! Sou a Ana Paula 👋
 
-- 🎓 Graduanda em Sistemas de Informação na UFPB
+- 🎓 Graduada em Sistemas de Informação na UFPB
 - 💻 Atualmente trabalho como Consultora de Desenvolvimento
 - 🙋 Interessada em trabalhar com Back-End
 - 📚 Estudando Javascript
-- 🐍 Procurando colaborar em projetos que envolvam Python ou NodeJS
+- 🐍 Procurando colaborar em projetos que envolvam Python, NodeJS ou Ruby
 - 😄 Pronomes: Ela/Elas
 - ❓  Fato aleatório sobre mim: Eu sei cantar a primeira parte do rap do Will Smith em Um Maluco no Pedaço 😁 
 
