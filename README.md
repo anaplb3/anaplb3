@@ -22,5 +22,15 @@
 - ❓  Fato aleatório sobre mim: Eu sei cantar a primeira parte do rap do Will Smith em Um Maluco no Pedaço 😁 
 
 ### Redes sociais 📱
-[![Linkedin Badge](https://img.shields.io/badge/-AnaPaulaLima-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ana-paula-lima-borges/)](https://www.linkedin.com/in/ana-paula-lima-borges/)
-[![Gmail Badge](https://img.shields.io/badge/-anapaulalimabs@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anapaulalimabs@gmail.com)](anapaulalimabs@gmail.com)
+<a href="mailto:anapaulalimabs@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+ </a>
+ <a href="https://www.instagram.com/iamnapaula" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+ </a>
+  <a href="https://www.twitter.com/iamnapaula" target="_blank">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+ </a>
+  <a href="https://www.linkedin.com/in/ana-paula-lima-borges/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+ </a>
